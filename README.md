@@ -68,6 +68,31 @@ Endpoint Method Description /api/users GET Get all users /api/users/:userId/post
 
 # RESPONSE I GOT ON MY FRONTEND after INTEGRATION
 
+{
+    "email": "tamannakaushik06@gmail.com",
+    "name": "tamanna",
+    "rollNo": "2k22csun01038",
+    "accessCode": "hFhJhm",
+    "clientID": "af90fd4d-d588-4c11-94fa-df1562c919c5",
+    "clientSecret": "VQtPjJPbtyXbBNtv"
+}
+
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzQ2MzM5NDI2LCJpYXQiOjE3NDYzMzkxMjYsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6ImFmOTBmZDRkLWQ1ODgtNGMxMS05NGZhLWRmMTU2MmM5MTljNSIsInN1YiI6InRhbWFubmFrYXVzaGlrMDZAZ21haWwuY29tIn0sImVtYWlsIjoidGFtYW5uYWthdXNoaWswNkBnbWFpbC5jb20iLCJuYW1lIjoidGFtYW5uYSIsInJvbGxObyI6IjJrMjJjc3VuMDEwMzgiLCJhY2Nlc3NDb2RlIjoiaEZoSmhtIiwiY2xpZW50SUQiOiJhZjkwZmQ0ZC1kNTg4LTRjMTEtOTRmYS1kZjE1NjJjOTE5YzUiLCJjbGllbnRTZWNyZXQiOiJWUXRQakpQYnR5WGJCTnR2In0.0Oo3caTWBuv6D-39v-aRw0VoCFLIuj5_zDMlZY_CQ_k",
+    "expires_in": 1746339426
+}
+
+
+![image](https://github.com/user-attachments/assets/d10bcdcc-7b70-4f5e-a054-c05a96e4b08d)
+
+blob:https://web.whatsapp.com/b5bc0e70-6a7d-4741-b657-18959c8b230b![image](https://github.com/user-attachments/assets/47e31251-d242-49b9-ab6b-28127594d54b)
+
+blob:https://web.whatsapp.com/fcef6659-02f3-4201-ad8e-d84736607d70![image](https://github.com/user-attachments/assets/e4366c1d-a4ce-4a14-bc87-8d7bc167b674)
+
+blob:https://web.whatsapp.com/c1d67d94-b379-446a-8d16-21d74020bdce![image](https://github.com/user-attachments/assets/14527d4e-c38e-49b0-8238-f97518c65707)
+
 
 ## Frontend Features
 - Top Users Page : Displays users with the most commented posts
